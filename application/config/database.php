@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'mytestinstancedb.caecvncpsx8a.us-east-1.rds.amazonaws.com',
+	'username' => 'demouser',
+	'password' => 'demo1786',
+	'database' => 'cigit',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
